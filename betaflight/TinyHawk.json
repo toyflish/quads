@@ -39,20 +39,20 @@
 				[]
 			],
 			"RC": {
-				"RC_RATE": 1,
-				"RC_EXPO": 0.7,
+				"RC_RATE": 0.8,
+				"RC_EXPO": 0.6,
 				"roll_pitch_rate": 0,
-				"roll_rate": 0.75,
-				"pitch_rate": 0.75,
-				"yaw_rate": 0.5,
+				"roll_rate": 0.6,
+				"pitch_rate": 0.6,
+				"yaw_rate": 0.6,
 				"dynamic_THR_PID": 0.1,
 				"throttle_MID": 0.5,
-				"throttle_EXPO": 0.55,
+				"throttle_EXPO": 0.5,
 				"dynamic_THR_breakpoint": 1650,
-				"RC_YAW_EXPO": 0.4,
-				"rcYawRate": 1,
-				"rcPitchRate": 1,
-				"RC_PITCH_EXPO": 0.7
+				"RC_YAW_EXPO": 0.2,
+				"rcYawRate": 0.8,
+				"rcPitchRate": 0.8,
+				"RC_PITCH_EXPO": 0.6
 			},
 			"AccTrim": [
 				0,
@@ -130,24 +130,24 @@
 					"id": 0,
 					"auxChannelIndex": 1,
 					"range": {
-						"start": 900,
-						"end": 1200
-					}
-				},
-				{
-					"id": 1,
-					"auxChannelIndex": 0,
-					"range": {
-						"start": 1650,
+						"start": 1800,
 						"end": 2100
 					}
 				},
 				{
-					"id": 2,
-					"auxChannelIndex": 0,
+					"id": 1,
+					"auxChannelIndex": 2,
 					"range": {
-						"start": 1350,
-						"end": 1650
+						"start": 1300,
+						"end": 1750
+					}
+				},
+				{
+					"id": 2,
+					"auxChannelIndex": 2,
+					"range": {
+						"start": 900,
+						"end": 1200
 					}
 				},
 				{
@@ -159,11 +159,11 @@
 					}
 				},
 				{
-					"id": 0,
+					"id": 36,
 					"auxChannelIndex": 0,
 					"range": {
 						"start": 900,
-						"end": 900
+						"end": 1300
 					}
 				},
 				{
@@ -483,20 +483,20 @@
 				[]
 			],
 			"RC": {
-				"RC_RATE": 1,
-				"RC_EXPO": 0.7,
+				"RC_RATE": 0.8,
+				"RC_EXPO": 0.6,
 				"roll_pitch_rate": 0,
-				"roll_rate": 0.75,
-				"pitch_rate": 0.75,
-				"yaw_rate": 0.5,
+				"roll_rate": 0.6,
+				"pitch_rate": 0.6,
+				"yaw_rate": 0.6,
 				"dynamic_THR_PID": 0.1,
 				"throttle_MID": 0.5,
-				"throttle_EXPO": 0.55,
+				"throttle_EXPO": 0.5,
 				"dynamic_THR_breakpoint": 1650,
-				"RC_YAW_EXPO": 0.4,
-				"rcYawRate": 1,
-				"rcPitchRate": 1,
-				"RC_PITCH_EXPO": 0.7
+				"RC_YAW_EXPO": 0.2,
+				"rcYawRate": 0.8,
+				"rcPitchRate": 0.8,
+				"RC_PITCH_EXPO": 0.6
 			},
 			"AccTrim": [
 				0,
@@ -574,24 +574,24 @@
 					"id": 0,
 					"auxChannelIndex": 1,
 					"range": {
-						"start": 900,
-						"end": 1200
-					}
-				},
-				{
-					"id": 1,
-					"auxChannelIndex": 0,
-					"range": {
-						"start": 1650,
+						"start": 1800,
 						"end": 2100
 					}
 				},
 				{
-					"id": 2,
-					"auxChannelIndex": 0,
+					"id": 1,
+					"auxChannelIndex": 2,
 					"range": {
-						"start": 1350,
-						"end": 1650
+						"start": 1300,
+						"end": 1750
+					}
+				},
+				{
+					"id": 2,
+					"auxChannelIndex": 2,
+					"range": {
+						"start": 900,
+						"end": 1200
 					}
 				},
 				{
@@ -603,11 +603,11 @@
 					}
 				},
 				{
-					"id": 0,
+					"id": 36,
 					"auxChannelIndex": 0,
 					"range": {
 						"start": 900,
-						"end": 900
+						"end": 1300
 					}
 				},
 				{
@@ -927,20 +927,20 @@
 				[]
 			],
 			"RC": {
-				"RC_RATE": 1,
-				"RC_EXPO": 0.7,
+				"RC_RATE": 0.8,
+				"RC_EXPO": 0.6,
 				"roll_pitch_rate": 0,
-				"roll_rate": 0.75,
-				"pitch_rate": 0.75,
-				"yaw_rate": 0.5,
+				"roll_rate": 0.6,
+				"pitch_rate": 0.6,
+				"yaw_rate": 0.6,
 				"dynamic_THR_PID": 0.1,
 				"throttle_MID": 0.5,
-				"throttle_EXPO": 0.55,
+				"throttle_EXPO": 0.5,
 				"dynamic_THR_breakpoint": 1650,
-				"RC_YAW_EXPO": 0.4,
-				"rcYawRate": 1,
-				"rcPitchRate": 1,
-				"RC_PITCH_EXPO": 0.7
+				"RC_YAW_EXPO": 0.2,
+				"rcYawRate": 0.8,
+				"rcPitchRate": 0.8,
+				"RC_PITCH_EXPO": 0.6
 			},
 			"AccTrim": [
 				0,
@@ -1018,24 +1018,24 @@
 					"id": 0,
 					"auxChannelIndex": 1,
 					"range": {
-						"start": 900,
-						"end": 1200
-					}
-				},
-				{
-					"id": 1,
-					"auxChannelIndex": 0,
-					"range": {
-						"start": 1650,
+						"start": 1800,
 						"end": 2100
 					}
 				},
 				{
-					"id": 2,
-					"auxChannelIndex": 0,
+					"id": 1,
+					"auxChannelIndex": 2,
 					"range": {
-						"start": 1350,
-						"end": 1650
+						"start": 1300,
+						"end": 1750
+					}
+				},
+				{
+					"id": 2,
+					"auxChannelIndex": 2,
+					"range": {
+						"start": 900,
+						"end": 1200
 					}
 				},
 				{
@@ -1047,11 +1047,11 @@
 					}
 				},
 				{
-					"id": 0,
+					"id": 36,
 					"auxChannelIndex": 0,
 					"range": {
 						"start": 900,
-						"end": 900
+						"end": 1300
 					}
 				},
 				{
@@ -2060,7 +2060,7 @@
 	"ARMING_CONFIG": {
 		"auto_disarm_delay": 5,
 		"disarm_kill_switch": 0,
-		"small_angle": 45
+		"small_angle": 180
 	},
 	"MOTOR_3D_CONFIG": {
 		"deadband3d_low": 1406,
